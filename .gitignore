@@ -1,0 +1,4 @@
+models/
+venv/
+.venv/
+app/.env

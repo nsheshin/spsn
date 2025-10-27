@@ -1,0 +1,12 @@
+fastapi[standard]==0.120.0
+pydantic==2.12.3
+uvicorn==0.38.0
+# vllm
+langchain==0.3.27
+langchain-openai==0.3.35
+langchain-community==0.3.31
+langchain_huggingface==0.3.1
+langchain-chroma==0.2.6
+sentence-transformers==5.1.2
+docx2txt==0.9
+motor==3.7.1
