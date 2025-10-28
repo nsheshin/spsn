@@ -1,4 +1,4 @@
 models/
 venv/
 .venv/
-app/.env
+# app/.env

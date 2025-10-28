@@ -12,7 +12,7 @@ api_key = os.getenv("OPENAI_API_KEY")
 chat_model = ChatOpenAI(
     api_key=api_key,
     base_url="https://dashscope-intl.aliyuncs.com/compatible-mode/v1",
-    model="qwen3-max",
+    model="qwen-plus",
     temperature=0.8
 )
 
